@@ -12,6 +12,7 @@
 		4DB10E241DD1FA1D00191E76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DB10E221DD1FA1D00191E76 /* Main.storyboard */; };
 		4DB10E261DD1FA1D00191E76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DB10E251DD1FA1D00191E76 /* Assets.xcassets */; };
 		4DB10E291DD1FA1D00191E76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DB10E271DD1FA1D00191E76 /* LaunchScreen.storyboard */; };
+		4DB10E311DD2825900191E76 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4DB10E301DD2825900191E76 /* Minecraft.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4DB10E251DD1FA1D00191E76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DB10E281DD1FA1D00191E76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4DB10E2A1DD1FA1D00191E76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DB10E301DD2825900191E76 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				4DB10E251DD1FA1D00191E76 /* Assets.xcassets */,
 				4DB10E271DD1FA1D00191E76 /* LaunchScreen.storyboard */,
 				4DB10E2A1DD1FA1D00191E76 /* Info.plist */,
+				4DB10E301DD2825900191E76 /* Minecraft.ttf */,
 			);
 			path = RetroCalculator;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			files = (
 				4DB10E291DD1FA1D00191E76 /* LaunchScreen.storyboard in Resources */,
 				4DB10E261DD1FA1D00191E76 /* Assets.xcassets in Resources */,
+				4DB10E311DD2825900191E76 /* Minecraft.ttf in Resources */,
 				4DB10E241DD1FA1D00191E76 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				4DB10E2F1DD1FA1D00191E76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
