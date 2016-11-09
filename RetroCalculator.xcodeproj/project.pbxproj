@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D770B871DD3849D00172B1D /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4D770B861DD3849D00172B1D /* btn.wav */; };
 		4DB10E1F1DD1FA1D00191E76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB10E1E1DD1FA1D00191E76 /* AppDelegate.swift */; };
 		4DB10E211DD1FA1D00191E76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DB10E201DD1FA1D00191E76 /* ViewController.swift */; };
 		4DB10E241DD1FA1D00191E76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DB10E221DD1FA1D00191E76 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D770B861DD3849D00172B1D /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 		4DB10E1B1DD1FA1D00191E76 /* RetroCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetroCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DB10E1E1DD1FA1D00191E76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DB10E201DD1FA1D00191E76 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				4DB10E271DD1FA1D00191E76 /* LaunchScreen.storyboard */,
 				4DB10E2A1DD1FA1D00191E76 /* Info.plist */,
 				4DB10E301DD2825900191E76 /* Minecraft.ttf */,
+				4D770B861DD3849D00172B1D /* btn.wav */,
 			);
 			path = RetroCalculator;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D770B871DD3849D00172B1D /* btn.wav in Resources */,
 				4DB10E291DD1FA1D00191E76 /* LaunchScreen.storyboard in Resources */,
 				4DB10E261DD1FA1D00191E76 /* Assets.xcassets in Resources */,
 				4DB10E311DD2825900191E76 /* Minecraft.ttf in Resources */,
